@@ -31,5 +31,9 @@ Eon:
   every_hour: 6
   hyphen: '<->'
   offset: 0
-  class: Eon
-  de
+  host: 192.168.xx.xx
+  username_db: '<username for db>'
+  password_db: '<password for db>'
+  database: '<database name>'
+  1_8_0_sensor: '<Sensor name for 1_8_0>'
+  2_8_0_sensor: '<Sensor name for 2_8_0>'
